@@ -6,11 +6,11 @@ import{Route,Routes,useNavigate} from "react-router-dom";
 import Hero from "./components/Homepage/Homepage";
 import Signup from './components/Common/Signup';
 import Login from './components/Common/Login';
-import Dashboard from './components/Pages/Dashboard';
-import ProtectedRoute from './components/ProtectedRoute';
-import Users from './components/Pages/Users';
-import Layout from './components/Layout';
-import Settings from './components/Pages/Settings';
+import Dashboard from './components/DashboardPage.jsx/Dashboard';
+import ProtectedRoute from './components/Common/ProtectedRoute';
+import Users from './components/DashboardPage.jsx/Users';
+import Layout from './components/Common/Layout';
+import Settings from './components/DashboardPage.jsx/Settings';
 
 
 function App() {

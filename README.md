@@ -1,16 +1,151 @@
-# React + Vite
+# 🚀 SaaS Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **SaaS Landing Page** built using **React** and **Tailwind CSS**.  
+This project showcases a clean dark UI, gradient CTA section, feature grid, dashboard preview, and contact section.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
 
-## React Compiler
+- 🔥 Modern Hero Section
+- 📊 Dashboard Preview UI
+- 📦 Feature Boxes Section
+- 🌈 Gradient CTA Section
+- 🏢 Companies / Clients Section
+- 📩 Contact Form Section
+- 🦶 Clean Footer
+- 📱 Fully Responsive Design
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Tailwind CSS
+- JavaScript (ES6+)
+- Vite (for development)
+
+---
+
+## 📂 Folder Structure
+
+├── 📁 Server
+│   ├── 📁 controller
+│   │   └── 📄 login.controller.js
+│   ├── 📁 routes
+│   │   └── 📄 user.route.js
+│   ├── 📄 app.js
+│   ├── ⚙️ package-lock.json
+│   └── ⚙️ package.json
+├── 📁 public
+│   ├── 🖼️ Globe.png
+│   ├── 🖼️ Group1.png
+│   ├── 🖼️ Group2.png
+│   ├── 🖼️ Group3.png
+│   ├── 🖼️ Group4.png
+│   ├── 🖼️ Group5.png
+│   ├── 🖼️ Group6.png
+│   ├── 🖼️ Guide.png
+│   ├── 🖼️ Vector.png
+│   └── 🖼️ vite.svg
+├── 📁 src
+│   ├── 📁 assets
+│   │   └── 🖼️ react.svg
+│   ├── 📁 components
+│   │   ├── 📁 Common
+│   │   │   ├── 📄 Btn.jsx
+│   │   │   ├── 📄 Layout.jsx
+│   │   │   ├── 📄 Login.jsx
+│   │   │   ├── 📄 ProtectedRoute.jsx
+│   │   │   └── 📄 Signup.jsx
+│   │   ├── 📁 DashboardPage.jsx
+│   │   │   ├── 📄 Dashboard.jsx
+│   │   │   ├── 📄 Settings.jsx
+│   │   │   └── 📄 Users.jsx
+│   │   └── 📁 Homepage
+│   │       ├── 📄 BgGradient.jsx
+│   │       ├── 📄 CTASection.jsx
+│   │       ├── 📄 Companiessection.jsx
+│   │       ├── 📄 ContactSection.jsx
+│   │       ├── 📄 DashboardPreview.jsx
+│   │       ├── 📄 FeatureSection.jsx
+│   │       ├── 📄 Footer.jsx
+│   │       ├── 📄 GuideSection.jsx
+│   │       ├── 📄 Homepage.jsx
+│   │       ├── 📄 Index.jsx
+│   │       └── 📄 Navbar.jsx
+│   ├── 🎨 App.css
+│   ├── 📄 App.jsx
+│   ├── 🎨 index.css
+│   └── 📄 main.jsx
+├── ⚙️ .gitignore
+├── 📝 README.md
+├── 📄 eslint.config.js
+├── 🌐 index.html
+├── ⚙️ package-lock.json
+├── ⚙️ package.json
+└── 📄 vite.config.js
+
+
+
+---
+
+## ⚙️ Installation
+
+### 1️⃣ Clone the repository
+
+- git clone https://github.com/Rajan9115/Saas-Landing-Page.git
+
+
+### 2️⃣ Navigate to the project folder
+
+- cd saas-landing-page
+
+
+### 3️⃣ Install dependencies
+
+- npm install
+
+
+### 4️⃣ Start development server
+
+- npm run dev
+
+
+---
+
+## 📱 Responsive Design
+
+This project uses:
+- Tailwind utility classes
+- Flexbox & Grid
+- Max-width containers
+- Custom spacing utilities
+
+---
+
+## 📌 Future Improvements
+
+- Add animations (Framer Motion)
+- Add theme switcher (Dark/Light)
+- Backend integration for contact form
+- Authentication system
+- Deployment (Vercel / Netlify)
+
+---
+
+## 📸 Screenshots
+
+
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 👨‍💻 Author
+
+Built with ❤️ by Rajan Kumar
