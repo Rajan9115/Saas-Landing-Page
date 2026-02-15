@@ -135,6 +135,18 @@ This project uses:
 ---
 
 ## 📸 Screenshots
+### Homepage
+<img width="1894" height="905" alt="Screenshot 2026-02-16 015450" src="https://github.com/user-attachments/assets/6d295394-93dc-488e-962f-d5ad85ada0bf" />
+<img width="1789" height="865" alt="Screenshot 2026-02-16 015513" src="https://github.com/user-attachments/assets/a2fdd4d1-9355-4ba6-b316-56c504ebb9bd" />
+<img width="1826" height="875" alt="Screenshot 2026-02-16 015534" src="https://github.com/user-attachments/assets/91c1ac0b-e7a4-4812-aeee-34399aad4c37" />
+### Dashboard
+<img width="1898" height="857" alt="Screenshot 2026-02-16 015610" src="https://github.com/user-attachments/assets/0b8cd0ab-0bd1-436f-a37a-53ef5601c3ea" />
+### Users
+<img width="1896" height="869" alt="Screenshot 2026-02-16 015647" src="https://github.com/user-attachments/assets/36b820b3-d694-47d9-8c0f-78261906278d" />
+
+
+
+
 
 
 
