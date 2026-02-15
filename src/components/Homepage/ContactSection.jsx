@@ -8,7 +8,14 @@ const ContactSection = () => {
 
         {/* Left Globe */}
         <div className="flex justify-center">
-          <div className=" w-150 h-135  bg-[url('Globe.png')] bg-contain bg-no-repeat"></div>
+         <div className="w-[541px] h-[541px]">
+        <img
+            src="/Globe.png"
+            alt="Globe"
+            className="w-full h-full object-contain"
+        />
+        </div>
+
         </div>
 
         {/* Right Form */}

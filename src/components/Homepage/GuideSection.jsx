@@ -9,10 +9,15 @@ const GuideSection = () => {
         {/* Left Orbit Graphic */}
         <div className="relative flex justify-center">
           
-           <div className=" w-150 h-135  bg-[url('Guide.png')] bg-contain bg-no-repeat"></div>
-          {/* <div className="w-16 h-16 bg-gray-800 rounded-full flex items-center justify-center text-white z-10">
-            ⚙
-          </div> */}
+          <div className="w-[678px] h-[678px]">
+            <img
+                src="/Guide.png"
+                alt="Guide"
+                className="w-full h-full object-contain"
+            />
+            </div>
+
+         
         </div>
 
         {/* Right Content */}
