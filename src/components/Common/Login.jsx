@@ -15,7 +15,7 @@ export default function Login() {
   const  handleSubmit = async (e) => {
    try{
         e.preventDefault();
-        const response = await fetch("http://localhost:3000/api/v1/users/login", {
+        const response = await fetch("https://saas-landing-page-2-rmfw.onrender.com/api/v1/users/login", {
         method: "POST",
         headers: {
         "Content-Type": "application/json",
