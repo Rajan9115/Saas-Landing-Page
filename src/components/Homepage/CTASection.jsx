@@ -40,7 +40,7 @@ const CTASection = () => {
         {/* Right World Map (Optional Image) */}
         <div className="absolute right-0 top-0 h-full w-1/2 flex items-center justify-center opacity-80">
           <img
-            src="/world-map.png"  // <-- replace with your map image path
+            src="/World-map.png"  // <-- replace with your map image path
             alt="World Map"
             className="max-h-[85%] object-contain"
           />
